@@ -1,4 +1,5 @@
 JOSEPH FANOUS 100655452
+NANDOR GALLO 100662966
 
 1. Clone or download this repositorie
 2. Run which ever file you would like
